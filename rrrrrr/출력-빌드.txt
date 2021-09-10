@@ -1,0 +1,4 @@
+﻿빌드 시작...
+1>------ 빌드 시작: 프로젝트: Assembly-CSharp, 구성: Debug Any CPU ------
+1>  Assembly-CSharp -> C:\Users\dhekd\Desktop\고ㅓ\rrrrrr\Temp\bin\Debug\Assembly-CSharp.dll
+========== 빌드: 성공 1, 실패 0, 최신 0, 생략 0 ==========
